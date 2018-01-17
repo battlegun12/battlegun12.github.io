@@ -22,12 +22,15 @@ body {
   font: 18px/1.4 $helvetica;
    colour: #FFFFFF;	
 }
-
 .container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+	background: linear-gradient(to bottom right, #4f4fff, #e344ff);
+        border-radius: 25px;
+}
+
 }
 
 h1, h2, h3, h4, h5, h6 {
